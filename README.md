@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi, I'm Fatih Mehmet
 
-<!--
-**fsancu/fsancu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Junior Data Analyst | SQL | Python | Tableau | Power BI**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I’m transitioning into Data Analytics and currently completing an intensive data analyst training program at GoIT. Through this program, I’ve gained hands-on experience working with:
+
+- **SQL**: PostgreSQL, Google BigQuery
+- **Python**: Pandas, data cleaning and analysis
+- **Visualization**: Tableau, Power BI, Looker Studio
+- **Web & Product Analytics**: Google Analytics, Amplitude
+- **Spreadsheet Analysis**: Google Sheets
+
+I enjoy turning raw data into meaningful insights and building dashboards that help people make better business decisions.
+
+---
+
+##  Skills
+
+- **SQL**: PostgreSQL, BigQuery
+- **Python**: Pandas, data analysis
+- **Visualization**: Tableau, Power BI, Looker Studio
+- **Spreadsheet Tools**: Google Sheets
+- **Analytics Tools**: Google Analytics, Amplitude
+
+---
+
+##  Education
+
+- **GoIT** – Data Analyst Training Program
+
+---
+
+##  Current Focus
+
+I’m currently building practical data analysis projects and developing my portfolio in:
+
+- SQL queries and data analysis
+- Dashboard creation
+- Business and product analytics
+- Python-based data analysis
+
+---
+
+##  Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/fatih-sancu/)
+- [GitHub](https://github.com/fsancu)
+
+---
+
+##  Looking For
+
+Junior Data Analyst opportunities where I can apply my SQL, Python, and visualization skills to solve real business problems.
